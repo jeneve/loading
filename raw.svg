@@ -1,0 +1,43 @@
+<svg id="whole" width="300px" height="205px" viewBox="0 0 300 205" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<g id="loading" transform="translate(-25.000000, -25.000000)">
+			<g id="dot-arc" transform="translate(25.000000, 25.000000)">
+				<g id="circles">
+					<circle class="oval" id="Oval-9" fill="#E49B64" cx="12" cy="193" r="5"></circle>
+					<circle class="oval" id="Oval-8" fill="#E4BF64" cx="13" cy="176" r="10"></circle>
+					<circle class="oval" id="Oval-7" fill="#E4DF64" cx="15" cy="149" r="15"></circle>
+					<circle class="oval" id="Oval-6" fill="#C4E464" cx="25" cy="113" r="20"></circle>
+					<circle class="oval" id="Oval-5" fill="#64E46A" cx="51" cy="73" r="25"></circle>
+					<circle class="oval" id="Oval-4" fill="#64E4B3" cx="98" cy="41" r="30"></circle>
+					<circle class="oval" id="Oval-3" fill="#64E4CF" cx="165" cy="35" r="35"></circle>
+					<circle class="oval" id="Oval-2" fill="#64DBE4" cx="231" cy="75" r="40"></circle>
+					<circle class="oval" id="Oval-1" fill="#64D0E4" cx="255" cy="160" r="45"></circle>
+				</g>
+			</g>
+	</g>
+</svg>
+
+
+
+<svg width="297px" height="262px" viewBox="23 -5 297 262" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="raw" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(23.000000, -5.000000)">
+        <g id="loading">
+            <g id="dot-arc">
+                <g id="circles">
+                    <ellipse id="Oval-9" fill="#E49B64" cx="79.5535714" cy="246" rx="5.30357143" ry="5"></ellipse>
+                    <ellipse id="Oval-8" fill="#E4BF64" cx="58.3392857" cy="231" rx="10.6071429" ry="10"></ellipse>
+                    <ellipse id="Oval-7" fill="#E4DF64" cx="37.125" cy="206" rx="15.9107143" ry="15"></ellipse>
+                    <ellipse id="Oval-6" fill="#C4E464" cx="21.2142857" cy="164" rx="21.2142857" ry="20"></ellipse>
+                    <ellipse id="Oval-5" fill="#64E46A" cx="31.8214286" cy="104" rx="26.5178571" ry="25"></ellipse>
+                    <ellipse id="Oval-4" fill="#64E4B3" cx="74.25" cy="58" rx="31.8214286" ry="30"></ellipse>
+                    <ellipse id="Oval-3" fill="#64E4CF" cx="148.5" cy="35" rx="37.125" ry="35"></ellipse>
+                    <ellipse id="Oval-2" fill="#64DBE4" cx="228.053571" cy="75" rx="42.4285714" ry="40"></ellipse>
+                    <ellipse id="Oval-1" fill="#64D0E4" cx="249.267857" cy="174" rx="47.7321429" ry="45"></ellipse>
+                    <ellipse id="Oval-10" stroke="#979797" cx="138.423214" cy="148" rx="119.330357" ry="113"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

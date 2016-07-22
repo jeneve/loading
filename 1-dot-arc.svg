@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="300px" height="205px" viewBox="0 0 300 205" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>1-dot-arc</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1-loading" transform="translate(-25.000000, -19.000000)">
+            <g id="1-dot-arc" transform="translate(25.000000, 19.000000)">
+                <circle id="Oval-2" fill="#64E46A" cx="51" cy="73" r="25"></circle>
+                <circle id="Oval-2" fill="#C4E464" cx="25" cy="113" r="20"></circle>
+                <circle id="Oval-2" fill="#E4DF64" cx="15" cy="149" r="15"></circle>
+                <circle id="Oval-2" fill="#E4BF64" cx="13" cy="176" r="10"></circle>
+                <circle id="Oval-2" fill="#E49B64" cx="12" cy="193" r="5"></circle>
+                <circle id="Oval-2" fill="#64E4B3" cx="98" cy="41" r="30"></circle>
+                <circle id="Oval-2" fill="#64E4CF" cx="165" cy="35" r="35"></circle>
+                <circle id="Oval-2" fill="#64DBE4" cx="231" cy="75" r="40"></circle>
+                <circle id="Oval-2" fill="#64D0E4" cx="255" cy="160" r="45"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
